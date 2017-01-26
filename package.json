@@ -1,0 +1,10 @@
+{
+  "name": "true-typeof",
+  "description": "A lightweight package to indicate the true value of an object.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ezzygemini/true-typeof.git"
+  },
+  "license": "MIT",
+  "version": "0.1.0"
+}
