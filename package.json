@@ -1,15 +1,20 @@
 {
   "name": "ezzy-typeof",
   "description": "A lightweight package to indicate the true value of an object.",
+  "version": "0.1.10",
+  "author": {
+    "name": "Moises Romero",
+    "url": "http://ezzygemini.com",
+    "email": "ezzygemini@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ezzygemini/argument.git"
+    "url": "https://github.com/ezzygemini/ezzy-typeof.git"
   },
   "scripts": {
     "test": "node node_modules/ezzy-testing"
   },
   "license": "MIT",
-  "version": "0.1.0",
   "devDependencies": {
     "ezzy-testing": "^0.1.2"
   }
